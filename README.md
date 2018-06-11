@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mattporritt/moodle-local_mpanalytics.svg?branch=master)](https://travis-ci.org/mattporritt/moodle-local_mpanalytics)
+
 # moodle-local_mpanalytics
 A Local Moodle plugin to test components for the Moodle Analytics API.
 
